@@ -1,4 +1,3 @@
 # char-rnn-theano
 
-TODO:
-  Push solution up by 10 DEC 2016
+A short implementation of Andrej Karpathy's character RNN using Theano.
